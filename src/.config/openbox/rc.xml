@@ -248,7 +248,7 @@
     <!-- Lock screen -->
     <keybind key="W-l">
       <action name="Execute">
-        <command>gnome-screensaver-command -l</command>
+        <command>/usr/bin/xdg-screensaver lock</command>
       </action>
     </keybind>
     <!-- Screenshot -->
