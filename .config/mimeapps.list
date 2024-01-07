@@ -1,0 +1,16 @@
+[Added Associations]
+application/x-desktop=featherpad.desktop;
+inode/directory=org.kde.dolphin.desktop;
+text/plain=featherpad.desktop;
+
+[Default Applications]
+application/x-desktop=featherpad.desktop;
+text/plain=featherpad.desktop;
+inode/directory=org.kde.dolphin.desktop
+inode/mount-point=org.kde.dolphin.desktop
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+

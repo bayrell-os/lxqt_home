@@ -1,0 +1,69 @@
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAfsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAAN0BAAADAAAFVgAAAp0AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAAAAAKOAAAAAAAAAAAAAAAcAHMAZQBzAHMAaQBvAG4AVABvAG8AbABiAGEAcgEAAAKO/////wAAAAAAAAAA
+eDP-1 HDMI-1 Window-Maximized 1366x768=true
+
+[Desktop Entry]
+DefaultProfile=Profile #1.profile
+
+[Favorite Profiles]
+Favorites=
+
+[FileLocation]
+scrollbackUseCacheLocation=true
+scrollbackUseSystemLocation=false
+
+[KonsoleWindow]
+ShowMenuBarByDefault=false
+ShowWindowTitleOnTitleBar=true
+
+[MainWindow]
+Height 1024=724
+Height 486=427
+Height 600=545
+Height 768=713
+Height 900=877
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAfsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAAN0BAAADAAAFVgAAAp0AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAAAAAKOAAAAAAAAAAAAAAAcAHMAZQBzAHMAaQBvAG4AVABvAG8AbABiAGEAcgEAAAKO/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1024=1024
+Width 1280=1280
+Width 1360=1280
+Width 1366=1366
+Width 1440=1440
+Width 800=800
+Width 864=640
+Window-Maximized 480x640=true
+Window-Maximized 486x864=true
+Window-Maximized 512x800=true
+Window-Maximized 576x1024=true
+Window-Maximized 600x800=true
+Window-Maximized 720x1280=true
+Window-Maximized 768x1024=true
+Window-Maximized 768x1360=true
+Window-Maximized 768x1366=true
+eDP-1 HDMI-1 Height 1366x768=877
+eDP-1 HDMI-1 Width 1366x768=1440
+eDP-1 HDMI-1 Window-Maximized 1366x768=true
+eDP-1 HDMI-1 XPosition 1366x768=1440
+eDP-1 HDMI-1 YPosition 1366x768=20
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar sessionToolbar]
+ToolButtonStyle=TextOnly
+
+[Notification Messages]
+CloseAllTabs=true
+
+[TabBar]
+TabBarPosition=Top
+
+[Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[Toolbar sessionToolbar]
+ToolButtonStyle=TextOnly
+
+[UiSettings]
+ColorScheme=По умолчанию
