@@ -254,17 +254,22 @@
     <!-- Screenshot -->
     <keybind key="Print">
       <action name="Execute">
-        <command>spectacle -m</command>
+        <command>/opt/desktop_scripts/screenshot.sh screenshot</command>
       </action>
     </keybind>
     <keybind key="C-Print">
       <action name="Execute">
-        <command>spectacle -r</command>
+        <command>/opt/desktop_scripts/screenshot.sh region</command>
+      </action>
+    </keybind>
+    <keybind key="A-Print">
+      <action name="Execute">
+        <command>/opt/desktop_scripts/screenshot.sh current-window</command>
       </action>
     </keybind>
     <keybind key="W-Print">
       <action name="Execute">
-        <command>spectacle -r</command>
+        <command>/opt/desktop_scripts/screenshot.sh current-window</command>
       </action>
     </keybind>
     <keybind key="S-Print">
