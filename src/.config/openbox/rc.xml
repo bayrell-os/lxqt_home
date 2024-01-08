@@ -87,7 +87,7 @@
       <name>DejaVu Sans</name>
       <size>10</size>
       <!-- font size in points -->
-      <weight>Bold</weight>
+      <weight>Normal</weight>
       <!-- 'bold' or 'normal' -->
       <slant>Normal</slant>
       <!-- 'italic' or 'normal' -->
@@ -646,7 +646,7 @@
     <!-- show the manage desktops section in the client-list-(combined-)menu -->
   </menu>
   <applications>
-    <application name="google-chrome" role="browser" class="Google-chrome">
+    <application class="Google-chrome">
       <decor>no</decor>
       <maximized>true</maximized>
     </application>
@@ -678,11 +678,7 @@
       <decor>no</decor>
       <maximized>true</maximized>
     </application>
-    <application name="Telegram" class="TelegramDesktop">
-      <decor>no</decor>
-      <maximized>true</maximized>
-    </application>
-    <application name="telegram-desktop" class="TelegramDesktop">
+    <application class="TelegramDesktop">
       <decor>no</decor>
       <maximized>true</maximized>
     </application>
