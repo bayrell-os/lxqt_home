@@ -41,6 +41,12 @@ export LANGUAGE
 #GTK_USE_PORTAL=1
 #export GTK_USE_PORTAL
 
+# Set term color map
+TERM="xterm-256color"
+COLORTERM=truecolor
+export TERM
+export COLORTERM
+
 # Time
 TZ='Asia/Almaty'
 export TZ
