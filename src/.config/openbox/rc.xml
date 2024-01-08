@@ -651,7 +651,14 @@
     <!-- show the manage desktops section in the client-list-(combined-)menu -->
   </menu>
   <applications>
-    <application class="Google-chrome">
+    <application class="kitty">
+      <decor>no</decor>
+      <maximized>true</maximized>
+    </application>
+    <application class="dolphin">
+      <maximized>true</maximized>
+    </application>
+    <application role="browser" class="Google-chrome">
       <decor>no</decor>
       <maximized>true</maximized>
     </application>
