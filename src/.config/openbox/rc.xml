@@ -655,10 +655,11 @@
       <decor>no</decor>
       <maximized>true</maximized>
     </application>
-    <application class="dolphin">
+    <application class="dolphin" type="normal">
+      <decor>no</decor>
       <maximized>true</maximized>
     </application>
-    <application role="browser" class="Google-chrome">
+    <application class="Google-chrome" role="browser">
       <decor>no</decor>
       <maximized>true</maximized>
     </application>
@@ -670,7 +671,15 @@
       <decor>no</decor>
       <maximized>true</maximized>
     </application>
-    <application name="Navigator" role="browser" class="Firefox">
+    <application class="firefox" role="browser">
+      <decor>no</decor>
+      <maximized>true</maximized>
+    </application>
+    <application class="Firefox" role="browser">
+      <decor>no</decor>
+      <maximized>true</maximized>
+    </application>
+    <application title="Mozilla Firefox" role="browser">
       <decor>no</decor>
       <maximized>true</maximized>
     </application>
