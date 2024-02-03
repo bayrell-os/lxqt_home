@@ -1,15 +1,24 @@
+MenuBar=Disabled
+
 [$Version]
 update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
 
 [CompactMode]
 FontWeight=50
 
+[ContextMenu]
+ShowCopyMoveMenu=true
+
+[CreateDialog]
+LastMimeType=application/x-7z-compressed
+
 [DetailsMode]
 FontWeight=50
-PreviewSize=16
+PreviewSize=22
 SidePadding=0
 
 [General]
+GlobalViewProps=false
 RememberOpenedTabs=false
 ShowFullPath=true
 ShowFullPathInTitlebar=true
@@ -18,23 +27,22 @@ ViewPropsTimestamp=2023,12,8,19,44,25.45
 
 [IconsMode]
 FontWeight=50
+PreviewSize=144
 
 [KFileDialog Settings]
 Places Icons Auto-resize=false
 Places Icons Static Size=22
 
-[KPropertiesDialog]
-1440x820 screen: Height=500
-1440x820 screen: Width=553
-1440x826 screen: Height=500
-1440x826 screen: Width=553
-
 [MainWindow]
 MenuBar=Disabled
 ToolBarsMovable=Disabled
-eDP-1 HDMI-1 Height 1366x768=600
-eDP-1 HDMI-1 Width 1366x768=760
-eDP-1 HDMI-1 Window-Maximized 1366x768=true
+
+[Open-with settings]
+CompletionMode=1
+History=aud
 
 [PreviewSettings]
-Plugins=appimagethumbnail,audiothumbnail,ffmpegthumbs,opendocumentthumbnail,kraorathumbnail,imagethumbnail,exrthumbnail,jpegthumbnail,windowsimagethumbnail,svgthumbnail,windowsexethumbnail,comicbookthumbnail,directorythumbnail,blenderthumbnail,djvuthumbnail,gsthumbnail,rawthumbnail,ebookthumbnail
+Plugins=appimagethumbnail,audiothumbnail,ffmpegthumbs,opendocumentthumbnail,kraorathumbnail,imagethumbnail,exrthumbnail,jpegthumbnail,windowsimagethumbnail,svgthumbnail,windowsexethumbnail,comicbookthumbnail,blenderthumbnail,djvuthumbnail,gsthumbnail,rawthumbnail,ebookthumbnail
+
+[Search]
+What=Content
