@@ -245,6 +245,11 @@
         <command>lxqt-runner</command>
       </action>
     </keybind>
+    <keybind key="A-F2">
+      <action name="Execute">
+        <command>lxqt-runner</command>
+      </action>
+    </keybind>
     <!-- Lock screen -->
     <keybind key="W-l">
       <action name="Execute">
